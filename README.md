@@ -4,5 +4,7 @@
 
 [Java básico](glysns.gitbook.io/java-basico)
 
-[Treinar Java/Pyton](codingbat.com)
+[Treinar Java](https://codingbat.com/java)
+
+[Treinar Pyton](https://codingbat.com/python)
 
